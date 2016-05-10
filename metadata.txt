@@ -1,0 +1,17 @@
+
+<begin_table>
+TABLE2
+B
+D
+<end_table>
+<begin_table>
+TABLE1
+A
+B
+C
+<end_table>
+<begin_table>
+T
+ABC
+DEF
+<end_table>
